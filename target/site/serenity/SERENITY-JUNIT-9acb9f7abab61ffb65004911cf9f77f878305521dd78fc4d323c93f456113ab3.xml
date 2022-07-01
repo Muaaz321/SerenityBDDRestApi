@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="RestassuredTests.Get_Request" skipped="0" tests="1" time="2.5" timestamp="2022-07-01 11:55:47"><testcase classname="RestassuredTests.Get_Request" name="Get employee details"><failure message="1 expectation failed.&#10;JSON path email doesn't match.&#10;Expected: janet.weaver@reqres.in&#10;  Actual: null&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path email doesn't match.
+Expected: janet.weaver@reqres.in
+  Actual: null
+</failure><system-err>1 expectation failed.
+JSON path email doesn't match.
+Expected: janet.weaver@reqres.in
+  Actual: null
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:687)&#13;
+io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:263)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:110)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)&#13;
+RestassuredTests.Get_Request.getEmployeeDetails(Get_Request.java:34)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>

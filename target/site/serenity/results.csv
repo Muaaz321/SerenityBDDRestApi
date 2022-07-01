@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test example","Test1","IGNORED","2022-07-01T23:55:44.359+05:30[Asia/Colombo]","0.0","0.03"
+"Get request","Get employee details","FAILURE","2022-07-01T23:55:47.64+05:30[Asia/Colombo]","0.0","2.5"
