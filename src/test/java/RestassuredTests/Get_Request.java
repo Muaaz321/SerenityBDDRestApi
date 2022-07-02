@@ -31,7 +31,14 @@ public class Get_Request {
                         .then()
                             .statusCode(200)
                             .statusLine("HTTP/1.1 200 OK")
-                            .assertThat().body("email",equalTo("janet.weaver@reqres.in"))
-                            .header("Content-Type","application/json");
+                            .assertThat()
+                    .body("data.email",equalTo("janet.weaver@reqres.in"))
+                    .body("data.id",equalTo(2))
+                    .body("data.first_name",equalTo("Janet"))
+                    .body("data.last_name",equalTo("Weaver"))
+                    .body("data.avatar",equalTo("https://reqres.in/img/faces/2-image.jpg"))
+                    .body("support.url",equalTo("https://reqres.in/#support-heading"))
+                    .body("support.text",equalTo("To keep ReqRes free, contributions towards server costs are appreciated!"))
+                    .header("Content-Type","application/json; charset=utf-8");
     }
 }
