@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="RestassuredTests.Get_Request" skipped="0" tests="1" time="2.21" timestamp="2022-07-02 03:37:27"><testcase classname="RestassuredTests.Get_Request" name="Get employee details"/></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="RestassuredTests.Get_Request" skipped="0" tests="1" time="2.4" timestamp="2022-07-02 10:02:46"><testcase classname="RestassuredTests.Get_Request" name="Get employee details"/></testsuite>

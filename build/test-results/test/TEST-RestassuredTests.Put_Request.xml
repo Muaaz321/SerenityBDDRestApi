@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestassuredTests.Put_Request" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-02T16:32:50" hostname="KEENEYE" time="1.005">
+  <properties/>
+  <testcase name="testPut" classname="RestassuredTests.Put_Request" time="1.005"/>
+  <system-out><![CDATA[HTTP/1.1 200 OK
+Date: Sat, 02 Jul 2022 16:32:51 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"48-9g9tPPN/L+IJotT74VyDES76GeQ"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=j00v3Bnky1I4XDmhz6sWPxAIAlXNc5x5acDel9GxPESZb2mIpsrD9PLJrPFQYqfypn6xYFLpvrTcLRJSKumVKQQo6EAJyKLqI4ZPUNE5eAFkI8GkbJ9AKetSuA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 7248c7a0d895b303-CMB
+Content-Encoding: gzip
+
+{
+    "name": "MuaazQ",
+    "job": "LeaderV",
+    "updatedAt": "2022-07-02T16:32:51.594Z"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
