@@ -4,6 +4,7 @@ import io.cucumber.junit.Cucumber;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Step;
 import io.restassured.RestAssured;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 

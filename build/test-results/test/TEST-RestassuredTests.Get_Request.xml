@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RestassuredTests.Get_Request" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-02T08:51:32" hostname="KEENEYE" time="2.252">
+<testsuite name="RestassuredTests.Get_Request" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-02T10:07:27" hostname="KEENEYE" time="2.211">
   <properties/>
-  <testcase name="getEmployeeDetails" classname="RestassuredTests.Get_Request" time="2.252"/>
+  <testcase name="getEmployeeDetails" classname="RestassuredTests.Get_Request" time="2.211"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
