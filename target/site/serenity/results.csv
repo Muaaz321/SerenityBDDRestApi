@@ -1,5 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Test example","Test1","IGNORED","2022-07-02T22:02:43.5+05:30[Asia/Colombo]","0.0","0.03"
-"Get request","Get employee details","SUCCESS","2022-07-02T22:02:46.486+05:30[Asia/Colombo]","0.0","2.4"
-"Post request","Test post","SUCCESS","2022-07-02T22:02:49.757+05:30[Asia/Colombo]","0.0","1.02"
-"Put request","Test put","SUCCESS","2022-07-02T22:02:50.799+05:30[Asia/Colombo]","0.0","0.99"

@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="RestassuredTests.Put_Request" skipped="0" tests="1" time="0.99" timestamp="2022-07-02 10:02:50"><testcase classname="RestassuredTests.Put_Request" name="Test put"/></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="RestassuredTests.Put_Request" skipped="0" tests="1" time="1.32" timestamp="2022-07-12 11:07:47"><testcase classname="RestassuredTests.Put_Request" name="Test put"/></testsuite>
